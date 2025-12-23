@@ -13,7 +13,7 @@ ENV/
 pip-log.txt
 pip-delete-this-directory.txt
 flipkart_com-ecommerce_sample.csv
-../.venv
+../.venv/
 # --------------------
 # Django
 # --------------------
